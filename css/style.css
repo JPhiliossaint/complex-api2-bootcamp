@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+h1{
+    font-family: 'Led Panel Station Off', sans-serif;
+    font-size: 60px;
+
+    
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    background: url(./../video/videoplayback.mp4);   
+    background-size: cover;                                            
+}
+section{
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+    z-index: 1;
+}
+h2{
+    font-family: 'Letter Sketch', sans-serif;
+    color: goldenrod
+}
+h3{
+    color: white;
+    font-family: 'Letter Sketch', sans-serif;
+}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%
+}
