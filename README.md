@@ -1,4 +1,3 @@
-![golisopod](https://user-images.githubusercontent.com/102938926/171498659-e8581bc4-55b2-41f3-810c-80eed279df45.gif)
 
 # Anime Quote and Gif Generator : <a target="_blank" href="https://simple-api2-jamesphi.netlify.app/">Visit Here</a>
 <img src="complexapi2.gif" width="100%" alt="Travel App"/>
